@@ -7,6 +7,7 @@ function cardHTML(s){return `<a class="card" href="${s.slug}.html" data-slug="${
 // Live search (homepage + archive)
 function runSearch(q){q=q.trim().toLowerCase();if(!q)return[];return SNACKS.filter(s=>(s.name+' '+s.maker+' '+s.category+' '+s.flavors.join(' ')+' '+s.statusLabel).toLowerCase().includes(q))}
 const hs=document.getElementById('heroSearch');
+if(hs){const q0=new URLSearchParams(location.search).get('q');if(q0){hs.value=q0;hs.dispatchEvent(new Event('input'))}}
 if(hs){hs.addEventListener('input',()=>{const r=document.getElementById('heroResults');const hits=runSearch(hs.value);r.innerHTML=hits.map(s=>`<a href="archive/${s.slug}.html">${s.name} <small>— ${s.category} · ${s.statusLabel}</small></a>`).join('')|| (hs.value?'<a href="archive/">No match — browse the full archive</a>':'')})}
 // Archive filters
 const ag=document.getElementById('archiveGrid');
