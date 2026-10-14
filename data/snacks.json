@@ -10,7 +10,7 @@
    "Chocolate Peanut Butter",
    "Cookies n' Cream"
   ],
-  "maker": "Yoo-hoo (Keurig Dr Pepper)",
+  "maker": "Keurig Dr Pepper",
   "name": "Yoo-hoo",
   "photo": "assets/img/yoo-hoo.jpg",
   "slug": "yoo-hoo",
@@ -226,5 +226,332 @@
   "substack": "https://90sfoodie.substack.com/p/tripledeckeroni-the-pizza-wrapped",
   "tagline": "Three decks of pizza ambition from Pizza Hut's wildest decade.",
   "years": "Mid-1990s · limited run"
+ },
+ {
+  "accent": "#C2255C",
+  "added": "2026-10-14",
+  "category": "Candy",
+  "era": "2000s",
+  "flavors": [
+   "Chocolate",
+   "Golden Vanilla"
+  ],
+  "maker": "Nabisco",
+  "name": "Oreo Sippers",
+  "photo": "assets/img/oreo-sippers.jpg",
+  "slug": "oreo-sippers",
+  "status": "discontinued",
+  "statusLabel": "Discontinued",
+  "story": [
+   "Most snacks you ate. Oreo Sippers you drank through first. Nabisco's wafer-cookie straws turned an ordinary glass of milk into an event: sip, and the milk came up through the cookie, softening it from the inside, until the straw itself became the best bite of the glass. Chocolate or Golden — you had a team, and you defended it.",
+   "Sippers rode the edible-straw craze of the late 90s and 2000s, then quietly disappeared around 2012 — no announcement, no farewell tour. Fans petitioned; Nabisco's only answer was a hopeful 'never say never.' Japan's Oreo Wafer Rolls are the closest living relative, but they never doubled as a straw. The original multitasker is still waiting on its comeback."
+  ],
+  "substack": "https://90sfoodie.substack.com/p/oreo-sippers-the-cookie-straw-you",
+  "tagline": "The cookie straw you drank your milk through.",
+  "years": "2000s–2012"
+ },
+ {
+  "accent": "#F06423",
+  "added": "2025-10-04",
+  "category": "Chips & Snacks",
+  "era": "90s",
+  "flavors": [
+   "Nacho Cheese",
+   "Zesty Ranch",
+   "Jalapeño Cheddar",
+   "Cool Ranch"
+  ],
+  "maker": "Frito-Lay",
+  "name": "Doritos 3D",
+  "photo": "assets/img/doritos-3d.jpg",
+  "slug": "doritos-3d",
+  "status": "brought-back",
+  "statusLabel": "Brought back",
+  "story": [
+   "In 1998, Frito-Lay looked at the flat triangle and asked: what if it had air in it? Doritos 3D were puffed, hollow, three-dimensional shells — fans still describe them as Doritos-meets-Bugles — with an airy crunch that gave way to the full seasoned hit. Nacho Cheese, Zesty Ranch, Jalapeño Cheddar, Cool Ranch: lunchbox royalty, cafeteria currency, the crinkle of the bag alone turned heads.",
+   "They vanished around 2004, and the fans never shut up about it — petitions, forum threads, two decades of noise. In late 2020 Frito-Lay finally answered, relaunching them as Doritos 3D Crunch with the original 'Doritos Girl,' Ali Landry, back for the campaign. Some comebacks are marketing. This one felt like justice."
+  ],
+  "substack": "https://90sfoodie.substack.com/p/crunch-in-three-dimensions-the-return",
+  "tagline": "The puffed triangle that inflated the Dorito.",
+  "years": "1998–2004 · back 2020"
+ },
+ {
+  "accent": "#E8871E",
+  "added": "2026-10-10",
+  "category": "Chips & Snacks",
+  "era": "90s",
+  "flavors": [
+   "Flamin' Hot",
+   "Cheesy"
+  ],
+  "maker": "Frito-Lay",
+  "name": "Cheetos Asteroids",
+  "photo": "assets/img/cheetos-asteroids.jpg",
+  "slug": "cheetos-asteroids",
+  "status": "brought-back",
+  "statusLabel": "Brought back",
+  "story": [
+   "If Doritos 3D were the headliner of Frito-Lay's canister era, Cheetos Asteroids were the cult favorite: little spheres of Cheeto — the Flamin' Hot ones especially — packed into a tall 'Go Snacks' tube. Pop the snap-on lid and the can became the cup. Packaging as ritual, and every kid understood it instantly.",
+   "The Asteroids burned bright and vanished with the rest of the tube era. But their fans stayed loud, and in 2019 Frito-Lay brought Flamin' Hot Asteroids back — announced by Chester Cheetah himself, in a rap video. When the mascot has to address the fans directly, you know the nostalgia runs deep."
+  ],
+  "substack": "https://90sfoodie.substack.com/p/doritos-3d-cheetos-asteroids-and",
+  "tagline": "Little Cheeto spheres in a can that doubled as a cup.",
+  "years": "1990s–2000s · back 2019"
+ },
+ {
+  "accent": "#E8A812",
+  "added": "2026-10-10",
+  "category": "Chips & Snacks",
+  "era": "90s",
+  "flavors": [
+   "Original"
+  ],
+  "maker": "Frito-Lay",
+  "name": "Lay's Crisps",
+  "photo": "assets/img/lays-crisps.jpg",
+  "slug": "lays-crisps",
+  "status": "discontinued",
+  "statusLabel": "Discontinued",
+  "story": [
+   "The third tube in Frito-Lay's 'Go Snacks' lineup was Lay's answer to Pringles: Lay's Crisps, neat stacks of potato crisps in the same tall, resealable canister, sold with a bright 'New!' starburst like the future had arrived in the chip aisle. Uniform, stackable, lunchbox-proof — chips with architecture.",
+   "The concept worked so well that Frito-Lay eventually evolved it into Lay's Stax in the 2000s, and the Crisps name quietly left the shelf. The canister idea never really died — it just changed badges. But the original trio of tubes remains peak late-90s snack engineering."
+  ],
+  "substack": "https://90sfoodie.substack.com/p/doritos-3d-cheetos-asteroids-and",
+  "tagline": "Lay's answer to Pringles — stacked crisps in a tall can.",
+  "years": "Late 1990s–2000s"
+ },
+ {
+  "accent": "#00A8A8",
+  "added": "2025-10-03",
+  "category": "Drinks",
+  "era": "90s",
+  "flavors": [
+   "Raspberry",
+   "Citrus",
+   "Grape"
+  ],
+  "maker": "Clearly Canadian",
+  "name": "Orbitz Soda",
+  "photo": "assets/img/orbitz.jpg",
+  "slug": "orbitz",
+  "status": "discontinued",
+  "statusLabel": "Discontinued",
+  "story": [
+   "Debuting in 1997 from Clearly Canadian, Orbitz wasn't just a soda — it was an event. A clear, fizzy fruit drink with colorful gel orbs suspended motionless throughout the bottle, like a lava lamp you could drink. Raspberry, citrus, grape: the flavors were good, but the floating spheres were the show, turning every bottle into a tiny hypnotic display.",
+   "The orbs were made of gellan, a seaweed-derived gel, and they gave each sip a chewy surprise. Plenty of people were skeptical; the curious were enchanted. Orbitz was gone within about a year — too weird to live, too wonderful to forget — and it remains the 90s drink that felt beamed in from a friendlier future."
+  ],
+  "substack": "https://90sfoodie.substack.com/p/orbitz-soda-a-90s-beverage-that-was",
+  "tagline": "The soda with floating orbs — a lava lamp you could drink.",
+  "years": "1997–1998"
+ },
+ {
+  "accent": "#E67E22",
+  "added": "2025-10-03",
+  "category": "Candy",
+  "era": "90s",
+  "flavors": [
+   "Peanut Butter Cookie Crunch"
+  ],
+  "maker": "Reese's",
+  "name": "Reese's Crunchy Cookie Cup",
+  "photo": "assets/img/reeses-crunchy-cookie-cup.jpg",
+  "slug": "reeses-crunchy-cookie-cup",
+  "status": "discontinued",
+  "statusLabel": "Discontinued",
+  "story": [
+   "Released in 1994, the Crunchy Cookie Cup answered a question nobody else thought to ask: what if a Reese's had a cookie inside it? The classic formula — smooth chocolate, creamy peanut butter — gained a layer of crunchy cookie pieces, and the texture math was perfect: creamy, crunchy, salty, sweet, all in one bite. No choosing between chocolate and cookies. It gave you both.",
+   "It arrived right as 'cookie everything' mania swept the snack aisle — cookies in ice cream, in cereal, so why not in candy? The Crunchy Cookie Cup didn't last, but for a certain generation it remains the best version of the cup Reese's ever made, and the one they'd trade the standard for in a heartbeat."
+  ],
+  "substack": "https://90sfoodie.substack.com/p/the-reeses-crunchy-cookie-cup-the",
+  "tagline": "The peanut butter cup with a cookie hiding inside.",
+  "years": "1994 · short run"
+ },
+ {
+  "accent": "#C0392B",
+  "added": "2025-10-09",
+  "category": "Fast Food",
+  "era": "90s",
+  "flavors": [
+   "Grilled",
+   "Crispy"
+  ],
+  "maker": "Wendy's",
+  "name": "Wendy's Monterey Ranch Chicken Sandwich",
+  "photo": "assets/img/wendys-monterey-ranch.jpg",
+  "slug": "wendys-monterey-ranch",
+  "status": "discontinued",
+  "statusLabel": "Discontinued",
+  "story": [
+   "Long before fast food menus filled up with mashups and gimmicks, Wendy's quietly delivered one of its most beloved creations: the Monterey Ranch Chicken Sandwich. Grilled or crispy chicken, Monterey Jack cheese, crispy bacon, and a cool, creamy ranch sauce on a soft bun. It wasn't trying to be trendy. It just worked — the tang of the ranch, the mild richness of the cheese, just enough bacon for a smoky crunch.",
+   "It gained a loyal following fast, and Wendy's brought it back a few times over the years by popular demand — but it never stayed for long. For everyone who tasted it back then, it remains one of the greats that disappeared too soon: proof that fast food exploring flavor didn't have to go overboard."
+  ],
+  "substack": "https://90sfoodie.substack.com/p/a-bite-of-the-90s-wendys-monterey",
+  "tagline": "Monterey Jack, bacon, and ranch — simple, and just right.",
+  "years": "Early 1990s"
+ },
+ {
+  "accent": "#7D3C98",
+  "added": "2025-10-08",
+  "category": "Fast Food",
+  "era": "90s",
+  "flavors": [
+   "Seasoned Beef",
+   "Chicken"
+  ],
+  "maker": "Taco Bell",
+  "name": "The Double Chalupa",
+  "photo": "assets/img/double-chalupa.jpg",
+  "slug": "double-chalupa",
+  "status": "discontinued",
+  "statusLabel": "Discontinued",
+  "story": [
+   "Before apps tracked our calories and fast food got sleek, Taco Bell proudly served oversized flavor bombs — and none stood taller than the Double Chalupa. Part taco, part boat, part dare: a thick, chewy shell holding a mountain of seasoned beef (or chicken), warm nacho cheese, shredded cheddar, lettuce, tomatoes, and that spicy-cool sauce only Taco Bell seemed to get right. It didn't fit in your hand. It barely fit in the wrapper.",
+   "The Double Chalupa wasn't about balance or portion control — it was about the joy of too much. Too much meat, too much cheese, too much sauce dripping down your wrist in the best way. You didn't eat one so much as wrestle with it. And win. Ordering it was never an impulse. It was a decision."
+  ],
+  "substack": "https://90sfoodie.substack.com/p/the-double-chalupa-taco-bells-boldest",
+  "tagline": "Part taco, part boat, part dare — too much of everything, on purpose.",
+  "years": "Limited-time legend"
+ },
+ {
+  "accent": "#D35400",
+  "added": "2025-10-07",
+  "category": "Fast Food",
+  "era": "90s",
+  "flavors": [
+   "Garden Spot Salad Bar",
+   "Pasta Station",
+   "Mexican Fiesta"
+  ],
+  "maker": "Wendy's",
+  "name": "Wendy's Superbar",
+  "photo": "assets/img/wendys-superbar.jpg",
+  "slug": "wendys-superbar",
+  "status": "discontinued",
+  "statusLabel": "Discontinued",
+  "story": [
+   "Yes, it was real. The Superbar was Wendy's short-lived answer to the sit-down buffet, glowing under heat lamps in the middle of a fast food joint. Three stations for a few bucks, all you could eat: the Garden Spot salad bar, a pasta station with spaghetti, alfredo, and marinara, and Mexican Fiesta — build-your-own tacos with seasoned beef, beans, salsa, and cheese. A choose-your-own-adventure with a tray.",
+   "The thrill was the slide of the tray along that shiny metal rail, plastic plate in hand, eyes wide. You'd start with salad to 'balance things out,' then pile spaghetti and taco meat onto the same tray and call it dinner. A little chaotic, not exactly gourmet — and completely special. Nothing in fast food has ever felt quite that generous since."
+  ],
+  "substack": "https://90sfoodie.substack.com/p/return-to-the-superbar-when-wendys",
+  "tagline": "An all-you-can-eat buffet inside a fast food joint. It was real.",
+  "years": "1980s–1990s"
+ },
+ {
+  "accent": "#D7263D",
+  "added": "2025-10-05",
+  "category": "Fast Food",
+  "era": "90s",
+  "flavors": [
+   "Hand-Breaded Filet"
+  ],
+  "maker": "Chick-fil-A",
+  "name": "Chick-fil-A Pretzel Cheddar Club",
+  "photo": "assets/img/chick-fil-a-pretzel-cheddar-club.jpg",
+  "slug": "chick-fil-a-pretzel-cheddar-club",
+  "status": "discontinued",
+  "statusLabel": "Discontinued",
+  "story": [
+   "Some sandwiches hit every note at once, and the Pretzel Cheddar Club was one of them: a warm, buttery pretzel bun — soft inside, with that classic chewy, salty crust — holding Chick-fil-A's hand-breaded, pressure-cooked chicken filet and a blanket of melted sharp cheddar. Bold, hearty, and built like the great lunch-hour sandwiches of the 90s.",
+   "The cheddar brought the tang and the cheese pull; the pretzel bun brought a salty-sweet chew no regular bun could match. It carried an unmistakable throwback energy — comfort food done right — and like all the best limited runs, it left fans checking the menu board hoping it wandered back."
+  ],
+  "substack": "https://90sfoodie.substack.com/p/chick-fil-a-pretzel-cheddar-club",
+  "tagline": "A buttery pretzel bun, sharp cheddar, and that signature filet.",
+  "years": "Limited-time favorite"
+ },
+ {
+  "accent": "#5D6D7E",
+  "added": "2025-10-05",
+  "category": "Fast Food",
+  "era": "90s",
+  "flavors": [
+   "Double Patties",
+   "Bacon",
+   "Zesty Sauce"
+  ],
+  "maker": "Jack in the Box",
+  "name": "The Colossus",
+  "photo": "assets/img/colossus-burger.jpg",
+  "slug": "colossus-burger",
+  "status": "discontinued",
+  "statusLabel": "Discontinued",
+  "story": [
+   "The Colossus wasn't just a burger — it was a monument to appetite. Two thick patties stacked high with melted cheese, crispy bacon, lettuce that actually snapped, and a zesty sauce that landed right between smoky and sweet, all hugged by a toasted sesame bun that somehow held it together. Jack in the Box really outdid themselves with that one.",
+   "Most memories of it live in weekend evenings: back seat of the car, windows down, burger in hand, fries rustling in the bag. The Colossus made fast food feel like an event — every bite a challenge and a reward. Menus are slicker and servings leaner now, which is exactly why this giant still looms so large."
+  ],
+  "substack": "https://90sfoodie.substack.com/p/when-burgers-were-bigger-a-tribute",
+  "tagline": "Jack in the Box's monument to appetite — two patties, zero restraint.",
+  "years": "1990s"
+ },
+ {
+  "accent": "#2874A6",
+  "added": "2025-10-04",
+  "category": "Fast Food",
+  "era": "90s",
+  "flavors": [
+   "Crispy Chicken",
+   "Ham & Swiss",
+   "Dijon Mayo"
+  ],
+  "maker": "Wendy's",
+  "name": "Wendy's Chicken Cordon Bleu Sandwich",
+  "photo": "assets/img/wendys-chicken-cordon-bleu.jpg",
+  "slug": "wendys-chicken-cordon-bleu",
+  "status": "discontinued",
+  "statusLabel": "Discontinued",
+  "story": [
+   "Every 90s menu had one item that thought it was fancy, and Wendy's was the Chicken Cordon Bleu: a crispy breaded chicken breast layered with deli ham and Swiss, finished with Dijon mayo on a toasted bun. French-bistro ambitions, drive-thru execution — and it worked, the sharp Dijon cutting through the cheese and ham like it belonged there.",
+   "Our blog post recreates it at home, foil wrap and all, for maximum 'drive-thru fresh' realism — pair it with classic Wendy's fries and a Frosty. Some sandwiches you remember for the flavor. This one you remember for the nerve: a cordon bleu, at a burger joint, and it pulled it off."
+  ],
+  "substack": "https://90sfoodie.substack.com/p/wendys-chicken-cordon-bleu-sandwich",
+  "tagline": "The fancy one — crispy chicken, ham, Swiss, and Dijon mayo.",
+  "years": "Mid-to-late 1990s"
+ },
+ {
+  "accent": "#CA6F1E",
+  "added": "2025-10-03",
+  "category": "Fast Food",
+  "era": "90s",
+  "flavors": [
+   "Cheddar Sauce",
+   "Bacon",
+   "Green Onion"
+  ],
+  "maker": "Jack in the Box",
+  "name": "Jack in the Box Bacon Cheddar Potato Wedges",
+  "photo": "assets/img/jack-in-the-box-potato-wedges.jpg",
+  "slug": "jack-in-the-box-potato-wedges",
+  "status": "discontinued",
+  "statusLabel": "Discontinued",
+  "story": [
+   "Before loaded fries were a menu category, Jack in the Box was drowning crinkle-cut potato wedges in warm cheddar cheese sauce, showering them with bacon, and finishing with green onion. Simple arithmetic, perfect result: crispy wedge, molten cheese, salty bacon crunch in every forkful.",
+   "Our blog post rebuilds them at home — wedges baked or air-fried until crisp, cheese sauce warmed, toppings scattered, ideally served in a red cardboard tray with a plastic fork for max realism. Some sides were never really sides. These were the main event wearing a side's name tag."
+  ],
+  "substack": "https://90sfoodie.substack.com/p/jack-in-the-box-bacon-cheddar-potato",
+  "tagline": "Crinkle wedges drowned in cheese sauce, bacon, and green onion.",
+  "years": "Mid-to-late 1990s"
+ },
+ {
+  "accent": "#D64541",
+  "added": "2025-10-09",
+  "category": "Fast Food",
+  "era": "90s",
+  "flavors": [
+   "Dry-Aged Pepperoni",
+   "Smoked Provolone",
+   "Hot Honey Drizzle"
+  ],
+  "maker": "90s Foodie Kitchen",
+  "name": "Grown-Up 90s Pepperoni Pizza",
+  "photo": "assets/img/pepperoni-pizza.jpg",
+  "slug": "pepperoni-pizza",
+  "status": "still-sold",
+  "statusLabel": "Still on the blog",
+  "story": [
+   "Not everything in the archive came from a factory. This one comes from the blog's own kitchen: a grown-up rebuild of the 90s pepperoni pizza — fresh dough stretched thin, San Marzano tomato sauce with garlic and oregano, low-moisture mozzarella layered with smoked provolone, and dry-aged pepperoni crisping at the edges in a ripping-hot oven.",
+   "The upgrades stay honest to the original spirit: red onion, pickled peppers if you're feeling it, fresh basil, and a drizzle of hot honey at the end. It's the full recipe on the blog — the pizza night you remember, made the way you'd make it now. Seven to ten minutes at 500 degrees. Childhood, but with better cheese."
+  ],
+  "substack": "https://90sfoodie.substack.com/p/grown-up-90s-inspired-pepperoni-pizza",
+  "tagline": "The blog's own recipe — Friday pizza night, upgraded but unmistakably 90s.",
+  "years": "On the blog"
  }
 ]
