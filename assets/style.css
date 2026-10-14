@@ -116,6 +116,28 @@ section.blk{padding:40px 0}
 .tab:hover{background:var(--yellow)}
 .tab.on{background:var(--ink);color:#fff}
 .tabpanel[hidden]{display:none}
+/* Standard pass 2 — Khloud-grade discipline: photo postcards, statement band, why-grid, perks, giant tagline */
+.postcard{display:flex;flex-direction:column;padding:0;overflow:hidden}
+.postimg{display:block;height:150px;background-size:cover;background-position:center;border-bottom:2.5px solid var(--ink)}
+.postcard h3,.postcard p{padding:0 16px}
+.postcard h3{margin:14px 0 6px}.postcard p{margin:0 0 16px}
+.statement{background:var(--ink);color:#FFFBF2;padding:56px 20px;text-align:center;margin:10px 0 0}
+.statement h2{font-size:clamp(1.9rem,5.2vw,3.4rem);line-height:1.02;letter-spacing:-.01em;margin:0 auto 12px;max-width:840px}
+.statement p{max-width:640px;margin:0 auto;opacity:.85;line-height:1.6}
+.why{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+@media(max-width:640px){.why{grid-template-columns:1fr}}
+.why>div{background:#fff;border:2.5px solid var(--ink);border-radius:16px;padding:20px 22px;box-shadow:4px 4px 0 rgba(35,32,43,.9)}
+.why h3{margin:0 0 10px;font-size:1.05rem}
+.why ul{margin:0;padding-left:18px;line-height:1.6}
+.perks{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px}
+.perks>div{display:flex;gap:10px;align-items:center;background:#fff;border:2px solid var(--ink);border-radius:999px;padding:10px 16px;font-weight:600}
+.perks b{font-size:1.05rem}
+.giant{font-weight:900;text-transform:lowercase;font-size:clamp(2.6rem,9.5vw,7.2rem);line-height:.95;letter-spacing:-.02em;text-align:center;padding:36px 10px 4px;color:var(--ink);opacity:.12}
+.tile.hasimg{color:#fff;background-size:cover;background-position:center;text-shadow:0 1px 10px rgba(0,0,0,.55)}
+.tile.hasimg small{color:#fff}
+.card{transition:transform .18s ease,box-shadow .18s ease}
+.card:hover{transform:translateY(-3px)}
+.feature .thumb{background-size:cover;background-position:center;min-height:300px}
 /* ——— Closer pass (2026-10-13, benchmark again: khloudfoods.com) ———
    Softer geometry, a visual-led hero, per-tab colors, DTC microcopy moves. */
 .topbar{background:var(--ink);color:#fff;text-align:center;font-size:.8rem;font-weight:700;letter-spacing:.05em;padding:7px 12px}
