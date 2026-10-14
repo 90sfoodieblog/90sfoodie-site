@@ -3,12 +3,15 @@ const SNACKS = [{"accent": "#FFC800", "added": "2026-10-13", "category": "Drinks
 const bySlug = Object.fromEntries(SNACKS.map(s=>[s.slug,s]));
 function cardHTML(s){return `<a class="card" href="${s.slug}.html" data-slug="${s.slug}"><div class="thumb" style="background:${s.accent}${s.photo?`;background-image:url('../${s.photo}')`:''}">${s.photo?'':s.name}</div><div class="pad"><h3>${s.name}</h3><p>${s.tagline}</p><span class="pill ${s.status}">${s.statusLabel}</span></div></a>`}
 // Snack of the day: deterministic rotation by date
-(function(){const el=document.getElementById('sotd');if(!el)return;const now=new Date();const day=Math.floor(Date.UTC(now.getFullYear(),now.getMonth(),now.getDate())/86400000);const s=SNACKS[day%SNACKS.length];el.innerHTML=`<div class="thumb" style="background:${s.accent}${s.photo?`;background-image:url('${s.photo}')`:''}">${s.photo?'':s.name}<span class="sticker">${s.statusLabel}</span></div><div class="pad"><span class="kicker">Snack of the Day</span><h2 class="sec">${s.name}</h2><p class="sub">${s.tagline}</p><p>${s.story[0]}</p><a class="btn" href="archive/${s.slug}.html">Open its archive page</a></div>`;})();
+(function(){const el=document.getElementById('sotd');if(!el)return;const now=new Date();const day=Math.floor(Date.UTC(now.getFullYear(),now.getMonth(),now.getDate())/86400000);const s=SNACKS[day%SNACKS.length];el.innerHTML=`<div class="thumb" style="background:${s.accent}${s.photo?`;background-image:url('${s.photo}')`:''}">${s.photo?'':s.name}<span class="sticker">${s.statusLabel}</span></div><div class="pad"><span class="kicker">Snack of the Day</span><h2 class="sec sotdname">${s.name}</h2><p class="sub">${s.tagline}</p><p>${s.story[0]}</p><a class="btn" href="archive/${s.slug}.html">Open its archive page</a></div>`;})();
 // Live search (homepage + archive)
 function runSearch(q){q=q.trim().toLowerCase();if(!q)return[];return SNACKS.filter(s=>(s.name+' '+s.maker+' '+s.category+' '+s.flavors.join(' ')+' '+s.statusLabel).toLowerCase().includes(q))}
 const hs=document.getElementById('heroSearch');
-if(hs){const q0=new URLSearchParams(location.search).get('q');if(q0){hs.value=q0;hs.dispatchEvent(new Event('input'))}}
-if(hs){hs.addEventListener('input',()=>{const r=document.getElementById('heroResults');const hits=runSearch(hs.value);r.innerHTML=hits.map(s=>`<a href="archive/${s.slug}.html">${s.name} <small>— ${s.category} · ${s.statusLabel}</small></a>`).join('')|| (hs.value?'<a href="archive/">No match — browse the full archive</a>':'')})}
+if(hs){hs.addEventListener('input',()=>{const r=document.getElementById('heroResults');const hits=runSearch(hs.value);r.innerHTML=hits.map(s=>`<a href="archive/${s.slug}.html">${s.name} <small>— ${s.category} · ${s.statusLabel}</small></a>`).join('')|| (hs.value?'<a href="archive/">No match — browse the full archive</a>':'')});
+const go=()=>{const first=document.querySelector('#heroResults a');if(first){location.href=first.getAttribute('href')}else if(hs.value.trim()){location.href='archive/'}};
+hs.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();go()}});
+const gb=document.getElementById('heroGo');if(gb)gb.addEventListener('click',e=>{e.preventDefault();go()});
+const q0=new URLSearchParams(location.search).get('q');if(q0){hs.value=q0;hs.dispatchEvent(new Event('input'))}}
 // Archive filters
 const ag=document.getElementById('archiveGrid');
 if(ag){let fStatus='all',fCat='all';function render(){const hits=SNACKS.filter(s=>(fStatus==='all'||s.status===fStatus)&&(fCat==='all'||s.category===fCat)).sort((a,b)=>a.name.localeCompare(b.name));const c=document.getElementById('archCount');if(c)c.textContent='Showing '+hits.length+' of '+SNACKS.length+' snacks';ag.innerHTML=hits.map(cardHTML).join('')||'<p>No snacks match that filter yet — the archive grows with every blog post.</p>'}
@@ -21,4 +24,4 @@ const tabs=document.querySelectorAll('.tab'),panels=document.querySelectorAll('.
 if(tabs.length){const HASH={'#categories':'shelves','#shelves':'shelves','#bracket':'bracket','#blog':'blog','#suggest':'suggest','#today':'today'};
 const show=n=>{tabs.forEach(t=>{const on=t.dataset.tab===n;t.classList.toggle('on',on);t.setAttribute('aria-selected',on?'true':'false')});panels.forEach(p=>{p.hidden=p.dataset.panel!==n})};
 tabs.forEach(t=>t.addEventListener('click',()=>{show(t.dataset.tab);history.replaceState(null,'','#'+t.dataset.tab)}));
-show(HASH[location.hash]||'today')}
+const initTab=()=>show(HASH[location.hash]||'today');if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',initTab);else initTab();}

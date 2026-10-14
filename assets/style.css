@@ -121,6 +121,9 @@ section.blk{padding:40px 0}
 /* Standard pass 2 — Khloud-grade discipline: photo postcards, statement band, why-grid, perks, giant tagline */
 .postcard{display:flex;flex-direction:column;padding:0;overflow:hidden}
 .postimg{display:block;height:200px;background-size:contain;background-repeat:no-repeat;background-position:center;background-color:#FFF1C9;border-bottom:2.5px solid var(--ink)}
+.stars span{display:inline-block;padding:.08em .14em}
+.sotdname{text-transform:none}
+.card .thumb.fit{height:150px}
 .postcard h3,.postcard p{padding:0 16px}
 .postcard h3{margin:14px 0 6px}.postcard p{margin:0 0 16px}
 .statement{background:var(--ink);color:#FFFBF2;padding:56px 20px;text-align:center;margin:10px 0 0}
