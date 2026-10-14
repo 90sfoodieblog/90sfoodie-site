@@ -22,7 +22,8 @@
   ],
   "substack": "https://90sfoodie.substack.com/p/yoo-hoo-the-90s-chocolate-drink-you",
   "tagline": "The chocolate drink you had to shake — in that glass bottle.",
-  "years": "1920s roots · 90s glass-bottle era"
+  "years": "1920s roots · 90s glass-bottle era",
+  "buy": "Yoo-hoo chocolate drink bottles"
  },
  {
   "accent": "#005CB4",
@@ -70,7 +71,8 @@
   ],
   "substack": "https://90sfoodie.substack.com/p/gatorade-in-glass-the-heavy-bottle",
   "tagline": "The sports drink that owned every 90s sideline, cooler, and commercial break.",
-  "years": "1965–today · 90s flavor boom"
+  "years": "1965–today · 90s flavor boom",
+  "buy": "Gatorade sports drink"
  },
  {
   "accent": "#FF5A76",
@@ -115,7 +117,8 @@
   ],
   "substack": "https://90sfoodie.substack.com/p/french-toast-crunch-the-tiny-toast",
   "tagline": "Tiny toast slices, big maple energy — the cereal fans literally brought back.",
-  "years": "1995–2006 · returned 2014"
+  "years": "1995–2006 · returned 2014",
+  "buy": "French Toast Crunch cereal"
  },
  {
   "accent": "#8A5A2B",
@@ -159,7 +162,8 @@
   ],
   "substack": "https://90sfoodie.substack.com/p/wonder-ball-the-90s-chocolate-treasure",
   "tagline": "The chocolate treasure you had to crack open.",
-  "years": "1990s original · revived in the 2010s"
+  "years": "1990s original · revived in the 2010s",
+  "buy": "Wonder Ball chocolate candy"
  },
  {
   "accent": "#E03A31",
@@ -273,7 +277,8 @@
   ],
   "substack": "https://90sfoodie.substack.com/p/crunch-in-three-dimensions-the-return",
   "tagline": "The puffed triangle that inflated the Dorito.",
-  "years": "1998–2004 · back 2020"
+  "years": "1998–2004 · back 2020",
+  "buy": "Doritos 3D Crunch"
  },
  {
   "accent": "#E8871E",
@@ -297,7 +302,8 @@
   "substack": "https://90sfoodie.substack.com/p/doritos-3d-cheetos-asteroids-and",
   "tagline": "Little Cheeto spheres in a can that doubled as a cup.",
   "years": "1990s–2000s · back 2019",
-  "card": "assets/img/cheetos-asteroids-card.jpg"
+  "card": "assets/img/cheetos-asteroids-card.jpg",
+  "buy": "Cheetos Asteroids"
  },
  {
   "accent": "#E8A812",
