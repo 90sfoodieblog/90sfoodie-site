@@ -158,6 +158,13 @@ h2.sec{text-transform:lowercase;letter-spacing:-.01em}
 .tab.on[data-tab="bracket"]{background:var(--pink);color:#fff}
 .tab.on[data-tab="blog"]{background:#BFE8CC;color:var(--ink)}
 .tab.on[data-tab="suggest"]{background:var(--yellow);color:var(--ink)}
+.tab.on[data-tab="contact"]{background:#D9C7F0;color:var(--ink)}
+.cform{max-width:640px;margin:0 auto;text-align:left}
+.cform label{display:block;font-weight:800;margin:14px 0 6px}
+.cform input[type="text"],.cform input:not([type]),.cform input[type="email"],.cform select,.cform textarea{width:100%;border:2.5px solid var(--ink);border-radius:12px;padding:11px 14px;font:inherit;background:#fff;box-sizing:border-box}
+.cform textarea{min-height:130px;resize:vertical}
+.crow{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media(max-width:600px){.crow{grid-template-columns:1fr}}
 .hero .wrap{display:grid;grid-template-columns:1.08fr .92fr;gap:34px;align-items:center;text-align:left}
 .hero .bigsearch{margin-left:0}
 @media(max-width:820px){.hero .wrap{grid-template-columns:1fr}}
