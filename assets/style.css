@@ -52,6 +52,9 @@ p.sub{margin:0 0 16px;color:#555}
 .stars{font-size:1.7rem;letter-spacing:4px;user-select:none}
 .stars button{background:none;border:0;font:inherit;color:#D8D2C4;cursor:pointer}.stars button.on{color:var(--yellow);-webkit-text-stroke:1.5px var(--ink)}.stars button:focus-visible{outline:3px solid var(--blue);outline-offset:2px;border-radius:6px}
 .slot{border:2.5px dashed var(--ink);border-radius:12px;padding:16px;background:#fff;margin:20px 0}
+.buylinks{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+.buylink{border:2px solid var(--ink);border-radius:999px;padding:5px 14px;font-weight:800;font-size:.85rem;background:var(--yellow);color:var(--ink);text-decoration:none}
+.buydisc{color:#666;font-size:.78rem;margin-top:8px}
 .chips{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0 18px}
 .chip{border:2.5px solid var(--ink);background:#fff;border-radius:999px;padding:5px 13px;font-weight:700;cursor:pointer;font-size:.85rem}
 .chip.on{background:var(--ink);color:#fff}
