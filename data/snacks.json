@@ -45,7 +45,8 @@
     ],
     "substack": "https://90sfoodie.substack.com/p/pepsi-blue-the-electric-blue-berry",
     "tagline": "The electric blue berry soda that defined 2002 — and vanished.",
-    "years": "2002–2004 · brief return 2021"
+    "years": "2002–2004 · brief return 2021",
+    "vintage": "Pepsi Blue soda"
   },
   {
     "accent": "#00A651",
@@ -95,7 +96,8 @@
     ],
     "substack": "https://90sfoodie.substack.com/p/pop-tarts-crunch-the-90s-cereal-that",
     "tagline": "The 90s cereal that turned breakfast into dessert.",
-    "years": "1994–1995"
+    "years": "1994–1995",
+    "vintage": "Pop-Tarts Crunch cereal"
   },
   {
     "accent": "#FF8A3D",
@@ -140,7 +142,8 @@
     ],
     "substack": "https://90sfoodie.substack.com/p/smorz-the-smores-cereal-that-refused",
     "tagline": "S'mores in a cereal bowl — no campfire required.",
-    "years": "2003–2013"
+    "years": "2003–2013",
+    "vintage": "Smorz cereal Kellogg's"
   },
   {
     "accent": "#7A4FD0",
@@ -185,7 +188,8 @@
     ],
     "substack": "https://90sfoodie.substack.com/p/m-and-ms-biscuit-bars-the-90s-treat",
     "tagline": "The 90s treat America never got.",
-    "years": "1990s · UK & beyond"
+    "years": "1990s · UK & beyond",
+    "vintage": "M&M's Biscuit Bars"
   },
   {
     "accent": "#D22630",
@@ -252,7 +256,8 @@
     ],
     "substack": "https://90sfoodie.substack.com/p/oreo-sippers-the-cookie-straw-you",
     "tagline": "The cookie straw you drank your milk through.",
-    "years": "2000s–2012"
+    "years": "2000s–2012",
+    "vintage": "Oreo Sippers"
   },
   {
     "accent": "#F06423",
@@ -326,7 +331,8 @@
     "substack": "https://90sfoodie.substack.com/p/doritos-3d-cheetos-asteroids-and",
     "tagline": "Lay's answer to Pringles — stacked crisps in a tall can.",
     "years": "Late 1990s–2000s",
-    "card": "assets/img/lays-crisps-card.jpg"
+    "card": "assets/img/lays-crisps-card.jpg",
+    "vintage": "Lay's Crisps Go Snacks canister"
   },
   {
     "accent": "#00A8A8",
@@ -350,7 +356,8 @@
     ],
     "substack": "https://90sfoodie.substack.com/p/orbitz-soda-a-90s-beverage-that-was",
     "tagline": "The soda with floating orbs — a lava lamp you could drink.",
-    "years": "1997–1998"
+    "years": "1997–1998",
+    "vintage": "Orbitz soda bottle"
   },
   {
     "accent": "#E67E22",
@@ -372,7 +379,8 @@
     ],
     "substack": "https://90sfoodie.substack.com/p/the-reeses-crunchy-cookie-cup-the",
     "tagline": "The peanut butter cup with a cookie hiding inside.",
-    "years": "1994 · short run"
+    "years": "1994 · short run",
+    "vintage": "Reese's Crunchy Cookie Cup"
   },
   {
     "accent": "#C0392B",
@@ -583,6 +591,75 @@
     ],
     "substack": "https://90sfoodie.substack.com/p/hot-pockets-toaster-pizza-the-forgotten",
     "tagline": "The Hot Pocket that skipped the microwave and went straight into the toaster.",
-    "years": "Late 1990s"
+    "years": "Late 1990s",
+    "vintage": "Hot Pockets Toaster Breaks Toaster Pizza box"
+  },
+  {
+    "accent": "#E8912D",
+    "added": "2026-10-15",
+    "category": "Frozen Treats",
+    "era": "90s",
+    "flavors": [
+      "Vanilla Ice Cream with Butterfinger Crunch"
+    ],
+    "maker": "Nestlé",
+    "name": "Butterfinger Ice Cream Nuggets",
+    "photo": "assets/img/butterfinger-ice-cream-nuggets.jpg",
+    "slug": "butterfinger-ice-cream-nuggets",
+    "status": "discontinued",
+    "statusLabel": "Discontinued",
+    "story": [
+      "In the early 1990s, when candy bars were invading the freezer aisle, Nestlé hid what fans still call the greatest Butterfinger of all in a tub: twenty poppable balls of vanilla ice cream wrapped in a milk chocolate shell loaded with crispety, crunchety Butterfinger pieces. No stick, no bowl — fingers were the utensil, and nobody in history ate just one.",
+      "The tub made it a shareable freezer snack years before shareable was a marketing word, and it landed at peak Butterfinger mania. Then the crowded 90s freezer aisle did what it did to so many novelties: by the end of the decade the Nuggets were gone, and unlike the bar or the BB's, they never came back."
+    ],
+    "substack": "https://90sfoodie.substack.com/p/remember-butterfinger-ice-cream-nuggets",
+    "tagline": "Twenty poppable ice cream balls in a chocolate Butterfinger shell — sold by the tub.",
+    "years": "Early 1990s · gone by the late 1990s",
+    "vintage": "Butterfinger Ice Cream Nuggets"
+  },
+  {
+    "accent": "#FF7A1A",
+    "added": "2026-10-15",
+    "category": "Cereals",
+    "era": "90s",
+    "flavors": [
+      "Sweetened Corn Puffs"
+    ],
+    "maker": "Kellogg's",
+    "name": "Cow and Chicken Puffs",
+    "photo": "assets/img/cow-and-chicken-puffs.jpg",
+    "slug": "cow-and-chicken-puffs",
+    "status": "discontinued",
+    "statusLabel": "Discontinued",
+    "story": [
+      "Kellogg's turned Cartoon Network's weirdest siblings into breakfast: crunchy yellow and white puffs of sweetened popped corn, glazed with sugar, on a riot-of-orange box — Cow grinning that enormous grin, Chicken looking exactly as alarmed as Chicken always looked.",
+      "The show wrapped in 1999, the licensing faded, and the Puffs quietly disappeared from grocery shelves. No farewell announcement, no final marked-down box. One school year you were pouring them into a bowl; the next, they were gone — which is exactly why this archive treats boxes like this one as museum pieces."
+    ],
+    "substack": "https://90sfoodie.substack.com/p/remember-cow-and-chicken-puffs-the",
+    "tagline": "Cartoon Network's weirdest siblings, in a cereal box — sweet corn puffs, zero udder content.",
+    "years": "Late 1990s–1999",
+    "vintage": "Cow and Chicken Puffs cereal"
+  },
+  {
+    "accent": "#0097A7",
+    "added": "2026-10-16",
+    "category": "Fast Food",
+    "era": "90s",
+    "flavors": [
+      "Quarter-Pound Beef with Pineapple"
+    ],
+    "maker": "McDonald's Australia",
+    "name": "Big Kahuna Burger",
+    "photo": "assets/img/big-kahuna-burger.jpg",
+    "slug": "big-kahuna-burger",
+    "status": "discontinued",
+    "statusLabel": "Discontinued",
+    "story": [
+      "In America, Big Kahuna Burger was a movie joke — a fictional joint quoted endlessly and eaten by no one. In mid-1990s Australia, McDonald's made it real: a quarter-pound beef patty with lettuce, tomato, onion, mustard, ketchup, and a ring of pineapple on a sesame seed bun, sold for $2.45 as a limited-time special beside a 95-cent passionfruit sundae.",
+      "It was never built to stay. Like the era's rotating carnival of promotional burgers, the Kahuna got a few weeks of glory before the next special took its slot on the menu board — no announcement, no farewell tour. A fiction on one continent, a core memory on the other."
+    ],
+    "substack": "https://90sfoodie.substack.com/p/remember-the-big-kahuna-burger-mcdonalds",
+    "tagline": "McDonald's Australia's tropical limited run — a quarter-pounder wearing a pineapple ring.",
+    "years": "Mid-1990s · limited run"
   }
 ]
